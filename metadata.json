@@ -1,0 +1,8 @@
+{
+  "name": "Avurudu Hub",
+  "description": "The ultimate Sinhala and Tamil New Year 2026 portal with interactive digital games, recipes, auspicious times, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
